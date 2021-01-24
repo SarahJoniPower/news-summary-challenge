@@ -1,4 +1,4 @@
-#News Summary challenge
+# News Summary challenge
 
 
 User Stories
